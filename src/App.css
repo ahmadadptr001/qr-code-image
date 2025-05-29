@@ -1,0 +1,10 @@
+a, li, button {
+        list-style: none;
+        text-decoration: none;
+        cursor: pointer;
+        font-family: system-ui;
+}
+
+html, body {
+        font-family: system-ui;
+}
